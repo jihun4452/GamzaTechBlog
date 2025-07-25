@@ -1,0 +1,2 @@
+레전드 썰 들고옴![](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/3a43095e-fa06-44d1-a3ae-c85231e1a923_image.png)
+![](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/6ee169b5-6612-492b-bf0d-1f3d23d35c62_image.png)
