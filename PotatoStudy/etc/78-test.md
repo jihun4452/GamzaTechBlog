@@ -1,1 +1,0 @@
-![Uploaded Image](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/post-images/78/a159bd16-44a4-4429-b194-e9cf3cf63aa6_image.png)
