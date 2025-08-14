@@ -9,7 +9,7 @@
 
 ![Uploaded Image](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/post-images/92/b1fb4c04-6593-4d7f-b66b-d38fdd1f0a07_image.png)
 
-이런 이슈가 있는것이다. 오! 코드를 얼마 안고쳐도 되는 좋은 이슈였다.
+이런 이슈가 있는것이다.
 그래도 사실 쉽지 않겠다 했는데 요즘 자꾸 머리에 맴도는 말이, 그냥 해! 였다. 뭐든지 그냥 해보자 라는 생각이 갑자기
 엄청 들어서 일단 해보기로 하고 커멘트를 달았다.
 
