@@ -1,1 +1,1 @@
-strㅇing
+string
