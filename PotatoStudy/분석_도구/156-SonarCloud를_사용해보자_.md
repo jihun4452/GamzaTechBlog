@@ -1,5 +1,4 @@
-![](https://velog.velcdn.com/images/jihun4452/post/45d9651f-5e65-4b03-baf6-a2549d7a2fc5/image.png)
-
+![Uploaded Image](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/post-images/156/042c36dc-a6af-4505-a9ea-78a40aeab7ad_image.png)
 ## 들어가며
 이번에 새로운 프로젝트를 들어가게됐다. 
 `항상 프로젝트를 처음 들어갈때 느끼는거지만, 전의 코드가 많이 아쉽다이다.`
